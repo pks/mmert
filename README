@@ -1,0 +1,97 @@
+Multi-Task Minimum Error Rate Training
+======================================
+
+This set of scripts is essentially a wrapper around the mert-moses.pl script which
+is distributed with moses (http://statmt.org/moses). In its current implementation
+this is used for running several MERT runs in parallel and altering resulting weights
+after each run. It also manages convergence.
+
+With MMERT we transfer the basic idea of regularized multi-task learning to MERT. That is,
+in each iteration we run a separate instance of MERT for each task, and then regularize
+the returned weight vectors towards the average weight vector of the previous iteration
+by adding or subtracting the regularization parameter lambda. As simply adding or subtracting
+lambda is only an approximation of regularization, we clip the new value at the average,
+if the average would be crossed otherwise.
+
+See the "Multi-Task Minimum Error Rate Training for SMT" (Simianer et al. 2011) paper for further details.
+
+This was tested with r4106 of moses trunk.
+NOTE: v0.1 worked only upto r4065, because mert-moses.pl script produced incompatible *.init.opt files.
+
+Usage
+=====
+An exemplary experiment installation can be found in the example/ directory (4 models,
+built from the first 8 sentences of europarl v6 de-en, http://statmt.org/europarl/):
+
+example/
+  bin/
+    3 binaries from a moses build: extractor, mert and moses
+  data/
+    Put target/source language data (development sets) in here.
+    Use a common file naming scheme (this has to be defined in inbetwmert.sh).
+  ini/
+    One or several configuration files (ini) for use with moses, these can be defined per 'task' or 'one-fits-all'
+    This is useful if you want to start MERT with different initial weights for each run
+    or different model files.
+  mmert/
+    3 scripts: inbetwmert.sh, regmtl.py and mert-moses.pl
+    In default configuration work directories are created here.
+  models/
+    Language model, phrase table and reordering model files. Path has to be defined
+    in the ini(s) in ini/.
+  scripts/
+    The scripts distributed with moses (needed by mert, http://www.statmt.org/moses/?n=Moses.SupportTools).
+
+Note: The phrase and reordering table(s) should be filtered against
+each dev set, see http://www.statmt.org/moses/?n=Moses.SupportTools#ntoc3 to fit into memory.
+The language model can be read from disk using kenlm models (the one distributed
+in this tarball is kenlm v4).
+
+After putting moses binaries into bin/ and moses scripts in scripts/ the experiment can be run with
+ $ cd ~/mmert/mmert/;./inbetwmert.sh SUFFIX
+Assuming you extracted mmert in your home directory and adjusted the username in
+the paths in the ini/moses.ini file(!).
+SUFFIX is used for creating working directories.
+
+After convergence (max change in the average vector is lower as the MIN_CHANGE parameter),
+you can find the final weight vectors in the following files:
+ * Average: mmert_SUFFIX/runX.avector.txt (X is the last iteration)
+ * Individual: mert_SUFFIX_TASK/runX.mert.log in the line 'Best point:'
+The weights in the example are ordered as follows:
+  d d d d d d d lm w tm tm tm tm tm
+This can be different in your installation, if you use more or less models.
+The order can be found in the stdout output of MERT (e.g. mmert_SUFFIX/mert.TASK.out).
+
+inbetwmert.sh
+-------------
+$FIRST_AVG: 'first average' to clip against
+  0: 0-vector
+  1: average of start weights (put the vector as a file name run0.avector.txt into mmert_SUFFIX)
+$INI or $INIS
+  Define to use several or one moses configuration files.
+  This can be used for using several model files, using different initial weights etc.
+$LAMBDA
+  Regularization parameter, useful values: 0.1 .. 0.05 .. 0.0000001
+$MIN_CHANGE
+  Stopping criterion: minimum change in average vector. Useful values: 0.01 .. 0.00001.
+  Everything above above ~0.2 leads to convergence after 1 iteration because
+  MERT normalizes the weight vector.
+More parameters are documented in inbetwmert.sh itself.
+
+regmtl.py
+---------
+Does actual regularization/clipping. Reads and writes current mert.log (the mert binary reads/writes
+weights in there).
+
+mert-moses.pl
+-------------
+Changes/hacks:
+ * the outer 'while 1' loop (line 613 to 810) was commented out 
+ * normalization was fixed (division by 0 if we start 0 weights in a moses.ini)
+
+
+Version History
+===============
+0.1 initial release
+0.2 make code better readable, updated mert-moses.pl script to current trunk r4106
+

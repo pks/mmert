@@ -1,0 +1,387 @@
+" ||| ' failed to ||| 1 0.2 0.125 0.000236294 2.718 ||| ||| 1 8
+" ||| ' failed ||| 1 0.2 0.125 0.0108696 2.718 ||| ||| 1 8
+" ||| ' ||| 1 0.2 0.125 0.5 2.718 ||| ||| 1 8
+" ||| bug ' failed to ||| 1 0.2 0.125 5.13682e-06 2.718 ||| ||| 1 8
+" ||| bug ' failed ||| 1 0.2 0.125 0.000236294 2.718 ||| ||| 1 8
+" ||| bug ' ||| 1 0.2 0.125 0.0108696 2.718 ||| ||| 1 8
+" ||| were dreadful ||| 1 1 0.125 0.0108696 2.718 ||| ||| 1 8
+" ||| were ||| 1 1 0.125 0.5 2.718 ||| ||| 1 8
+( das parlament erhebt sich ||| ( the house rose and observed ||| 1 0.142857 1 0.0277778 2.718 ||| ||| 1 1
+( das parlament ||| ( the house rose ||| 1 0.571429 1 0.111111 2.718 ||| ||| 1 1
+( ||| ( ||| 1 1 1 1 2.718 ||| ||| 1 1
+) ||| ) ||| 1 1 1 1 2.718 ||| ||| 1 1
+, daß ||| pleasant festive period ||| 0.5 0.15 1 0.037037 2.718 ||| ||| 2 1
+, insbesondere ||| behalf of ||| 0.5 0.15 0.25 0.0434783 2.718 ||| ||| 2 4
+, insbesondere ||| behalf ||| 0.5 0.15 0.25 1 2.718 ||| ||| 2 4
+, insbesondere ||| on behalf of ||| 0.5 0.15 0.25 0.00189036 2.718 ||| ||| 2 4
+, insbesondere ||| on behalf ||| 0.5 0.15 0.25 0.0434783 2.718 ||| ||| 2 4
+, ist der ||| a number of countries ||| 0.5 0.0675 0.333333 0.0193237 2.718 ||| ||| 2 3
+, ist der ||| in a number of countries ||| 0.5 0.0675 0.333333 0.000420079 2.718 ||| ||| 2 3
+, ist der ||| number of countries ||| 0.5 0.0675 0.333333 0.222222 2.718 ||| ||| 2 3
+, sich zu einer schweigeminute zu ||| , for this minute ' s silence ||| 1 0.000649038 1 3.17028e-06 2.718 ||| ||| 1 1
+, sich zu ||| , for this minute ||| 1 0.00923077 1 0.000126024 2.718 ||| ||| 1 1
+, sich ||| , for this ||| 0.5 0.0153846 0.333333 0.000210039 2.718 ||| ||| 2 3
+, sich ||| , for ||| 0.5 0.0153846 0.333333 0.00966182 2.718 ||| ||| 2 3
+, sich ||| , ||| 0.0769231 0.0153846 0.333333 0.444444 2.718 ||| ||| 13 3
+, zur geschäftsordnung . ||| madam president , on a point ||| 1 0.17094 1 0.00301933 2.718 ||| ||| 1 1
+, ||| , as a number ||| 1 0.307692 0.0666667 1.82643e-05 2.718 ||| ||| 1 15
+, ||| , as a ||| 1 0.307692 0.0666667 0.000840158 2.718 ||| ||| 1 15
+, ||| , as ||| 1 0.307692 0.0666667 0.00966182 2.718 ||| ||| 1 15
+, ||| , for this ||| 0.5 0.307692 0.0666667 0.000210039 2.718 ||| ||| 2 15
+, ||| , for ||| 0.5 0.307692 0.0666667 0.00966182 2.718 ||| ||| 2 15
+, ||| , on ||| 0.5 0.307692 0.0666667 0.0193237 2.718 ||| ||| 2 15
+, ||| , ||| 0.307692 0.307692 0.266667 0.444444 2.718 ||| ||| 13 15
+, ||| . ||| 0.166667 0.166667 0.0666667 0.111111 2.718 ||| ||| 6 15
+, ||| again to wish ||| 1 0.333333 0.0666667 5.25098e-05 2.718 ||| ||| 1 15
+, ||| again to ||| 1 0.333333 0.0666667 0.00241546 2.718 ||| ||| 1 15
+, ||| to wish ||| 1 0.333333 0.0666667 0.00241546 2.718 ||| ||| 1 15
+, ||| to ||| 0.5 0.333333 0.0666667 0.111111 2.718 ||| ||| 2 15
+- ||| in the various ||| 1 0.2 0.25 0.00118147 2.718 ||| ||| 1 4
+- ||| in the ||| 0.25 0.2 0.25 0.0543479 2.718 ||| ||| 4 4
+- ||| in ||| 0.125 0.2 0.25 0.5 2.718 ||| ||| 8 4
+- ||| particularly ||| 0.5 1 0.25 0.5 2.718 ||| ||| 2 4
+. ||| . ||| 0.5 0.5 0.3 0.375 2.718 ||| ||| 6 10
+. ||| a ||| 1 0.555556 0.5 0.625 2.718 ||| ||| 5 10
+. ||| dreadful . ||| 0.5 0.5 0.1 0.00815216 2.718 ||| ||| 2 10
+. ||| on a ||| 1 0.555556 0.1 0.0271739 2.718 ||| ||| 1 10
+17. ||| adjourned ||| 1 1 1 1 2.718 ||| ||| 1 1
+allen ||| the european ||| 1 0.0714286 0.5 0.0217391 2.718 ||| ||| 1 2
+allen ||| the ||| 0.0909091 0.0714286 0.5 1 2.718 ||| ||| 11 2
+alles gute zum ||| in the ||| 0.25 0.0005 0.5 0.108696 2.718 ||| ||| 4 2
+alles gute zum ||| in ||| 0.125 0.0005 0.5 1 2.718 ||| ||| 8 2
+alles gute ||| in the ||| 0.25 0.01 0.5 0.108696 2.718 ||| ||| 4 2
+alles gute ||| in ||| 0.125 0.01 0.5 1 2.718 ||| ||| 8 2
+alles ||| in the ||| 0.25 0.2 0.5 0.108696 2.718 ||| ||| 4 2
+alles ||| in ||| 0.125 0.2 0.5 1 2.718 ||| ||| 8 2
+am freitag ||| would ||| 0.333333 0.05 1 1 2.718 ||| ||| 3 1
+auch ||| terrible storms ||| 1 1 0.25 0.0217391 2.718 ||| ||| 1 4
+auch ||| terrible ||| 1 1 0.25 1 2.718 ||| ||| 1 4
+auch ||| the terrible storms ||| 1 1 0.25 0.00236295 2.718 ||| ||| 1 4
+auch ||| the terrible ||| 1 1 0.25 0.108696 2.718 ||| ||| 1 4
+besteht ||| next few days , during ||| 1 1 0.2 6.70021e-07 2.718 ||| ||| 1 5
+besteht ||| next few days , ||| 1 1 0.2 3.0821e-05 2.718 ||| ||| 1 5
+besteht ||| next few days ||| 1 1 0.2 0.000472588 2.718 ||| ||| 1 5
+besteht ||| next few ||| 1 1 0.2 0.0217391 2.718 ||| ||| 1 5
+besteht ||| next ||| 1 1 0.2 1 2.718 ||| ||| 1 5
+bitten - ||| particularly ||| 0.5 0.05 1 0.5 2.718 ||| ||| 2 1
+bürger einiger unserer ||| the ||| 0.0909091 0.000178572 1 0.5 2.718 ||| ||| 11 1
+bürger einiger ||| the ||| 0.0909091 0.00357143 1 0.5 2.718 ||| ||| 11 1
+das parlament erhebt sich ||| the house rose and observed ||| 1 0.142857 1 0.0277778 2.718 ||| ||| 1 1
+das parlament ||| the house rose ||| 1 0.571429 1 0.111111 2.718 ||| ||| 1 1
+das ||| house ||| 1 1 0.5 0.5 2.718 ||| ||| 1 2
+das ||| the ||| 0.0909091 0.0714286 0.5 0.5 2.718 ||| ||| 11 2
+daß ||| pleasant festive period ||| 0.5 1 1 0.037037 2.718 ||| ||| 2 1
+dem 17. ||| adjourned on ||| 1 0.25 1 1 2.718 ||| ||| 1 1
+dem ||| on ||| 1 0.25 1 1 2.718 ||| ||| 1 1
+der sitzungsperiode ||| of the session ||| 1 0.385714 1 0.163265 2.718 ||| ||| 1 1
+der ||| a number of ||| 1 0.6 0.1 0.00189036 2.718 ||| ||| 1 10
+der ||| as a number of ||| 1 0.6 0.1 4.10946e-05 2.718 ||| ||| 1 10
+der ||| number of ||| 1 0.6 0.1 0.0217391 2.718 ||| ||| 1 10
+der ||| of the ||| 1 0.6 0.1 0.108696 2.718 ||| ||| 1 10
+der ||| of ||| 0.857143 0.6 0.6 1 2.718 ||| ||| 7 10
+des ||| 17 ||| 1 1 1 1 2.718 ||| ||| 1 1
+dezember unterbrochene sitzungsperiode ||| resumed the session of the european ||| 1 0.208929 1 0.0133278 2.718 ||| ||| 1 1
+dezember ||| european ||| 1 0.5 1 1 2.718 ||| ||| 1 1
+die am freitag ||| would ||| 0.333333 0.0025 1 1 2.718 ||| ||| 3 1
+dieser sitzungsperiode ||| the ||| 0.0909091 0.0142857 1 0.571429 2.718 ||| ||| 11 1
+doch sind bürger ||| will ||| 0.333333 0.0025 1 1 2.718 ||| ||| 3 1
+doch sind ||| will ||| 0.333333 0.05 1 1 2.718 ||| ||| 3 1
+doch ||| will ||| 0.333333 1 1 1 2.718 ||| ||| 3 1
+einer aussprache ||| on this subject ||| 0.5 0.125 1 0.0277778 2.718 ||| ||| 2 1
+einer schweigeminute zu gedenken . ||| observe a minute ' s silence ||| 1 0.0825 1 0.0119629 2.718 ||| ||| 1 1
+einer schweigeminute zu ||| ' s silence ||| 1 0.0703125 0.5 0.0251563 2.718 ||| ||| 1 2
+einer schweigeminute zu ||| minute ' s silence ||| 0.25 0.1485 0.5 0.0191406 2.718 ||| ||| 4 2
+eingetreten . ||| . ||| 0.166667 0.025 0.5 0.375 2.718 ||| ||| 6 2
+eingetreten . ||| dreadful . ||| 0.5 0.025 0.5 0.00815216 2.718 ||| ||| 2 2
+einiger kolleginnen ||| those ||| 0.5 0.05 1 1 2.718 ||| ||| 2 1
+einiger unserer ||| the ||| 0.0909091 0.00357143 1 0.5 2.718 ||| ||| 11 1
+einiger ||| the ||| 0.0909091 0.0714286 1 0.5 2.718 ||| ||| 11 1
+erheben ||| then ||| 1 1 1 1 2.718 ||| ||| 1 1
+erhebt sich zu einer schweigeminute . ||| and observed a minute ' s silence ||| 1 0.020625 1 0.00299072 2.718 ||| ||| 1 1
+erhebt sich ||| and observed ||| 1 0.25 1 0.25 2.718 ||| ||| 1 1
+erkläre die am ||| declare ||| 0.333333 0.0025 1 1 2.718 ||| ||| 3 1
+erkläre die ||| declare ||| 0.333333 0.05 1 1 2.718 ||| ||| 3 1
+erkläre ||| declare ||| 0.333333 1 1 1 2.718 ||| ||| 3 1
+europäischen ||| i ||| 0.333333 0.333333 0.25 0.5 2.718 ||| ||| 3 4
+europäischen ||| like to ||| 1 0.333333 0.25 0.0108696 2.718 ||| ||| 1 4
+europäischen ||| should like to ||| 1 0.333333 0.25 0.000236294 2.718 ||| ||| 1 4
+europäischen ||| to ||| 0.5 0.333333 0.25 0.5 2.718 ||| ||| 2 4
+ferien ||| a happy new year ||| 0.5 1 0.25 4.10946e-05 2.718 ||| ||| 2 4
+ferien ||| happy new year ||| 0.5 1 0.25 0.000472588 2.718 ||| ||| 2 4
+ferien ||| new year ||| 0.5 1 0.25 0.0217391 2.718 ||| ||| 2 4
+ferien ||| year ||| 0.5 1 0.25 1 2.718 ||| ||| 2 4
+feststellen konnten , ||| failed to materialise , still ||| 0.5 0.15 0.333333 3.0821e-05 2.718 ||| ||| 2 3
+feststellen konnten , ||| materialise , still ||| 0.5 0.15 0.333333 0.0652174 2.718 ||| ||| 2 3
+feststellen konnten , ||| to materialise , still ||| 0.5 0.15 0.333333 0.00141777 2.718 ||| ||| 2 3
+feststellen konnten ||| failed to materialise , still ||| 0.5 1 0.333333 3.0821e-05 2.718 ||| ||| 2 3
+feststellen konnten ||| materialise , still ||| 0.5 1 0.333333 0.0652174 2.718 ||| ||| 2 3
+feststellen konnten ||| to materialise , still ||| 0.5 1 0.333333 0.00141777 2.718 ||| ||| 2 3
+feststellen ||| failed to materialise , ||| 1 1 0.166667 3.0821e-05 2.718 ||| ||| 1 6
+feststellen ||| failed to materialise ||| 1 1 0.166667 0.000472588 2.718 ||| ||| 1 6
+feststellen ||| materialise , ||| 1 1 0.166667 0.0652174 2.718 ||| ||| 1 6
+feststellen ||| materialise ||| 1 1 0.166667 1 2.718 ||| ||| 1 6
+feststellen ||| to materialise , ||| 1 1 0.166667 0.00141777 2.718 ||| ||| 1 6
+feststellen ||| to materialise ||| 1 1 0.166667 0.0217391 2.718 ||| ||| 1 6
+frau präsidentin ||| of order . ||| 1 0.1 0.5 0.0217391 2.718 ||| ||| 1 2
+frau präsidentin ||| of order ||| 1 0.1 0.5 1 2.718 ||| ||| 1 2
+frau ||| order . ||| 1 1 0.5 0.0217391 2.718 ||| ||| 1 2
+frau ||| order ||| 1 1 0.5 1 2.718 ||| ||| 1 2
+freitag ||| would ||| 0.333333 1 1 1 2.718 ||| ||| 3 1
+für ||| 1999 ||| 1 1 1 1 2.718 ||| ||| 1 1
+gedenken . ||| observe a ||| 1 0.555556 1 0.625 2.718 ||| ||| 1 1
+gedenken ||| observe ||| 1 1 1 1 2.718 ||| ||| 1 1
+gefürchtete ||| have seen , the dreaded ' ||| 1 0.2 0.166667 7.28284e-08 2.718 ||| ||| 1 6
+gefürchtete ||| have seen , the dreaded ||| 1 0.2 0.166667 3.35011e-06 2.718 ||| ||| 1 6
+gefürchtete ||| have seen , the ||| 1 0.2 0.166667 0.000154105 2.718 ||| ||| 1 6
+gefürchtete ||| have seen , ||| 1 0.2 0.166667 0.00141777 2.718 ||| ||| 1 6
+gefürchtete ||| have seen ||| 1 0.2 0.166667 0.0217391 2.718 ||| ||| 1 6
+gefürchtete ||| have ||| 1 0.2 0.166667 1 2.718 ||| ||| 1 6
+geworden . ||| suffered a ||| 1 0.555556 1 0.625 2.718 ||| ||| 1 1
+geworden ||| suffered ||| 1 1 1 1 2.718 ||| ||| 1 1
+gute zum jahreswechsel ||| once again ||| 0.333333 0.0025 0.5 0.0217391 2.718 ||| ||| 3 2
+gute zum jahreswechsel ||| once ||| 0.333333 0.0025 0.5 1 2.718 ||| ||| 3 2
+hatten . ||| enjoyed a ||| 1 0.555556 0.333333 0.625 2.718 ||| ||| 1 3
+hatten . ||| that you enjoyed a ||| 1 0.555556 0.333333 0.000590737 2.718 ||| ||| 1 3
+hatten . ||| you enjoyed a ||| 1 0.555556 0.333333 0.0135869 2.718 ||| ||| 1 3
+hatten ||| enjoyed ||| 1 1 0.333333 1 2.718 ||| ||| 1 3
+hatten ||| that you enjoyed ||| 1 1 0.333333 0.000945179 2.718 ||| ||| 1 3
+hatten ||| you enjoyed ||| 1 1 0.333333 0.0217391 2.718 ||| ||| 1 3
+heute möchte ||| the victims concerned ||| 1 1 0.5 0.108696 2.718 ||| ||| 1 2
+heute möchte ||| victims concerned ||| 1 1 0.5 1 2.718 ||| ||| 1 2
+heute ||| the victims ||| 1 1 0.5 0.108696 2.718 ||| ||| 1 2
+heute ||| victims ||| 1 1 0.5 1 2.718 ||| ||| 1 2
+hoffe , ||| hope that you ||| 0.5 0.15 0.166667 0.000945179 2.718 ||| ||| 2 6
+hoffe , ||| hope that ||| 0.5 0.15 0.166667 0.0434783 2.718 ||| ||| 2 6
+hoffe , ||| hope ||| 0.5 0.15 0.166667 1 2.718 ||| ||| 2 6
+hoffe , ||| the hope that you ||| 0.5 0.15 0.166667 0.000102737 2.718 ||| ||| 2 6
+hoffe , ||| the hope that ||| 0.5 0.15 0.166667 0.0047259 2.718 ||| ||| 2 6
+hoffe , ||| the hope ||| 0.5 0.15 0.166667 0.108696 2.718 ||| ||| 2 6
+hoffe ||| hope that you ||| 0.5 1 0.166667 0.000945179 2.718 ||| ||| 2 6
+hoffe ||| hope that ||| 0.5 1 0.166667 0.0434783 2.718 ||| ||| 2 6
+hoffe ||| hope ||| 0.5 1 0.166667 1 2.718 ||| ||| 2 6
+hoffe ||| the hope that you ||| 0.5 1 0.166667 0.000102737 2.718 ||| ||| 2 6
+hoffe ||| the hope that ||| 0.5 1 0.166667 0.0047259 2.718 ||| ||| 2 6
+hoffe ||| the hope ||| 0.5 1 0.166667 0.108696 2.718 ||| ||| 2 6
+ich bitte sie ||| please rise , ||| 1 0.115385 1 0.208333 2.718 ||| ||| 1 1
+ich bitte ||| please rise ||| 1 0.375 1 0.208333 2.718 ||| ||| 1 1
+ich ||| . ||| 0.166667 0.166667 0.5 0.333333 2.718 ||| ||| 6 2
+ich ||| like ||| 1 0.5 0.5 0.333333 2.718 ||| ||| 1 2
+ihnen ||| wish you a happy new ||| 1 0.25 0.125 8.9336e-07 2.718 ||| ||| 1 8
+ihnen ||| wish you a happy ||| 1 0.25 0.125 4.10946e-05 2.718 ||| ||| 1 8
+ihnen ||| wish you a ||| 1 0.25 0.125 0.00189036 2.718 ||| ||| 1 8
+ihnen ||| wish you ||| 1 0.25 0.125 0.0217391 2.718 ||| ||| 1 8
+ihnen ||| you a happy new ||| 1 0.25 0.125 4.10946e-05 2.718 ||| ||| 1 8
+ihnen ||| you a happy ||| 1 0.25 0.125 0.00189036 2.718 ||| ||| 1 8
+ihnen ||| you a ||| 1 0.25 0.125 0.0869565 2.718 ||| ||| 1 8
+ihnen ||| you ||| 0.333333 0.25 0.125 1 2.718 ||| ||| 3 8
+im parlament besteht ||| the next few days , during this ||| 1 0.0357143 1 2.2334e-07 2.718 ||| ||| 1 1
+im ||| , during this ||| 1 0.25 0.166667 0.000708884 2.718 ||| ||| 1 6
+im ||| days , during this ||| 1 0.25 0.166667 1.54105e-05 2.718 ||| ||| 1 6
+im ||| during this ||| 1 0.25 0.166667 0.0108696 2.718 ||| ||| 1 6
+im ||| few days , during this ||| 1 0.25 0.166667 3.3501e-07 2.718 ||| ||| 1 6
+im ||| part-session ||| 1 1 0.166667 0.5 2.718 ||| ||| 1 6
+im ||| this ||| 1 0.25 0.166667 0.5 2.718 ||| ||| 1 6
+in den nächsten tagen ||| you have requested a debate ||| 1 0.07 1 0.0253623 2.718 ||| ||| 1 1
+in den nächsten ||| you have requested a ||| 1 0.07 0.5 0.0253623 2.718 ||| ||| 1 2
+in den nächsten ||| you have requested ||| 1 0.07 0.5 0.291667 2.718 ||| ||| 1 2
+in den verschiedenen ländern der ||| a number of members have requested ||| 1 0.0084 0.25 0.000551354 2.718 ||| ||| 1 4
+in den verschiedenen ländern der ||| as a number of members have requested ||| 1 0.0084 0.25 1.19859e-05 2.718 ||| ||| 1 4
+in den verschiedenen ländern der ||| number of members have requested ||| 1 0.0084 0.25 0.00634057 2.718 ||| ||| 1 4
+in den verschiedenen ländern der ||| of members have requested ||| 1 0.0084 0.25 0.291667 2.718 ||| ||| 1 4
+in den verschiedenen ländern ||| members have requested ||| 1 0.014 1 0.291667 2.718 ||| ||| 1 1
+in den verschiedenen ||| have requested ||| 0.333333 0.014 1 0.291667 2.718 ||| ||| 3 1
+in den ||| have requested a ||| 1 0.28 0.333333 0.0253623 2.718 ||| ||| 1 3
+in den ||| have requested ||| 0.666667 0.28 0.666667 0.291667 2.718 ||| ||| 3 3
+in ||| , ||| 0.0769231 0.0769231 1 0.333333 2.718 ||| ||| 13 1
+insbesondere ||| behalf of ||| 0.5 1 0.25 0.0434783 2.718 ||| ||| 2 4
+insbesondere ||| behalf ||| 0.5 1 0.25 1 2.718 ||| ||| 2 4
+insbesondere ||| on behalf of ||| 0.5 1 0.25 0.00189036 2.718 ||| ||| 2 4
+insbesondere ||| on behalf ||| 0.5 1 0.25 0.0434783 2.718 ||| ||| 2 4
+ist der ||| a number of countries ||| 0.5 0.45 0.333333 0.0193237 2.718 ||| ||| 2 3
+ist der ||| in a number of countries ||| 0.5 0.45 0.333333 0.000420079 2.718 ||| ||| 2 3
+ist der ||| number of countries ||| 0.5 0.45 0.333333 0.222222 2.718 ||| ||| 2 3
+ist ||| countries ||| 1 1 0.333333 0.666667 2.718 ||| ||| 1 3
+ist ||| the various countries ||| 1 1 0.333333 0.0015753 2.718 ||| ||| 1 3
+ist ||| various countries ||| 1 1 0.333333 0.0144927 2.718 ||| ||| 1 3
+jahreswechsel ||| once again ||| 0.333333 1 0.5 0.0217391 2.718 ||| ||| 3 2
+jahreswechsel ||| once ||| 0.333333 1 0.5 1 2.718 ||| ||| 3 2
+kollegen ||| european union ||| 1 1 0.5 0.0217391 2.718 ||| ||| 1 2
+kollegen ||| union ||| 1 1 0.5 1 2.718 ||| ||| 1 2
+kolleginnen ||| those ||| 0.5 1 1 1 2.718 ||| ||| 2 1
+konnten , ||| , still ||| 0.5 0.15 0.5 0.0652174 2.718 ||| ||| 2 2
+konnten , ||| still ||| 0.5 0.15 0.5 1 2.718 ||| ||| 2 2
+konnten ||| , still ||| 0.5 1 0.5 0.0652174 2.718 ||| ||| 2 2
+konnten ||| still ||| 0.5 1 0.5 1 2.718 ||| ||| 2 2
+ländern der ||| a number of members ||| 0.5 0.6 0.25 0.00189036 2.718 ||| ||| 2 4
+ländern der ||| as a number of members ||| 0.5 0.6 0.25 4.10946e-05 2.718 ||| ||| 2 4
+ländern der ||| number of members ||| 0.5 0.6 0.25 0.0217391 2.718 ||| ||| 2 4
+ländern der ||| of members ||| 0.5 0.6 0.25 1 2.718 ||| ||| 2 4
+ländern ||| members ||| 0.5 1 1 1 2.718 ||| ||| 2 1
+millenium-bug ||| you ||| 0.333333 0.25 1 1 2.718 ||| ||| 3 1
+mitgliedstaaten opfer ||| disasters that truly ||| 0.25 0.05 0.2 0.000945179 2.718 ||| ||| 4 5
+mitgliedstaaten opfer ||| natural disasters that truly ||| 0.25 0.05 0.2 2.05473e-05 2.718 ||| ||| 4 5
+mitgliedstaaten opfer ||| of natural disasters that truly ||| 0.25 0.05 0.2 8.93364e-07 2.718 ||| ||| 4 5
+mitgliedstaaten opfer ||| that truly ||| 0.25 0.05 0.2 0.0434783 2.718 ||| ||| 4 5
+mitgliedstaaten opfer ||| truly ||| 0.25 0.05 0.2 1 2.718 ||| ||| 4 5
+mitgliedstaaten ||| disasters that truly ||| 0.25 1 0.2 0.000945179 2.718 ||| ||| 4 5
+mitgliedstaaten ||| natural disasters that truly ||| 0.25 1 0.2 2.05473e-05 2.718 ||| ||| 4 5
+mitgliedstaaten ||| of natural disasters that truly ||| 0.25 1 0.2 8.93364e-07 2.718 ||| ||| 4 5
+mitgliedstaaten ||| that truly ||| 0.25 1 0.2 0.0434783 2.718 ||| ||| 4 5
+mitgliedstaaten ||| truly ||| 0.25 1 0.2 1 2.718 ||| ||| 4 5
+möchte ||| concerned ||| 1 1 1 1 2.718 ||| ||| 1 1
+nach einer aussprache ||| on this subject ||| 0.5 0.00625 1 0.0277778 2.718 ||| ||| 2 1
+naturkatastrophen ||| people in a ||| 0.5 1 0.333333 0.00189036 2.718 ||| ||| 2 3
+naturkatastrophen ||| people in ||| 0.5 1 0.333333 0.0217391 2.718 ||| ||| 2 3
+naturkatastrophen ||| people ||| 0.5 1 0.333333 1 2.718 ||| ||| 2 3
+nicht eingetreten ||| series of natural disasters that ||| 0.5 0.05 0.2 8.93364e-07 2.718 ||| ||| 2 5
+nicht eingetreten ||| series of natural disasters ||| 0.5 0.05 0.2 2.05473e-05 2.718 ||| ||| 2 5
+nicht eingetreten ||| series of natural ||| 0.5 0.05 0.2 0.000945179 2.718 ||| ||| 2 5
+nicht eingetreten ||| series of ||| 0.5 0.05 0.2 0.0434783 2.718 ||| ||| 2 5
+nicht eingetreten ||| series ||| 0.5 0.05 0.2 1 2.718 ||| ||| 2 5
+nicht ||| series of natural disasters that ||| 0.5 1 0.2 8.93364e-07 2.718 ||| ||| 2 5
+nicht ||| series of natural disasters ||| 0.5 1 0.2 2.05473e-05 2.718 ||| ||| 2 5
+nicht ||| series of natural ||| 0.5 1 0.2 0.000945179 2.718 ||| ||| 2 5
+nicht ||| series of ||| 0.5 1 0.2 0.0434783 2.718 ||| ||| 2 5
+nicht ||| series ||| 0.5 1 0.2 1 2.718 ||| ||| 2 5
+nochmals ||| and ||| 1 0.5 1 1 2.718 ||| ||| 1 1
+nächsten ||| you ||| 0.333333 0.25 1 1 2.718 ||| ||| 3 1
+opfer von schrecklichen ||| ' millennium bug ||| 0.25 0.0025 0.0833333 0.000472588 2.718 ||| ||| 4 12
+opfer von schrecklichen ||| ' millennium ||| 0.25 0.0025 0.0833333 0.0217391 2.718 ||| ||| 4 12
+opfer von schrecklichen ||| , the dreaded ' millennium bug ||| 0.25 0.0025 0.0833333 7.28284e-08 2.718 ||| ||| 4 12
+opfer von schrecklichen ||| , the dreaded ' millennium ||| 0.25 0.0025 0.0833333 3.35011e-06 2.718 ||| ||| 4 12
+opfer von schrecklichen ||| dreaded ' millennium bug ||| 0.25 0.0025 0.0833333 1.02736e-05 2.718 ||| ||| 4 12
+opfer von schrecklichen ||| dreaded ' millennium ||| 0.25 0.0025 0.0833333 0.000472588 2.718 ||| ||| 4 12
+opfer von schrecklichen ||| millennium bug ||| 0.25 0.0025 0.0833333 0.0217391 2.718 ||| ||| 4 12
+opfer von schrecklichen ||| millennium ||| 0.25 0.0025 0.0833333 1 2.718 ||| ||| 4 12
+opfer von schrecklichen ||| seen , the dreaded ' millennium bug ||| 0.25 0.0025 0.0833333 1.58322e-09 2.718 ||| ||| 4 12
+opfer von schrecklichen ||| seen , the dreaded ' millennium ||| 0.25 0.0025 0.0833333 7.28284e-08 2.718 ||| ||| 4 12
+opfer von schrecklichen ||| the dreaded ' millennium bug ||| 0.25 0.0025 0.0833333 1.1167e-06 2.718 ||| ||| 4 12
+opfer von schrecklichen ||| the dreaded ' millennium ||| 0.25 0.0025 0.0833333 5.13683e-05 2.718 ||| ||| 4 12
+opfer von ||| ' millennium bug ||| 0.25 0.05 0.0833333 0.000472588 2.718 ||| ||| 4 12
+opfer von ||| ' millennium ||| 0.25 0.05 0.0833333 0.0217391 2.718 ||| ||| 4 12
+opfer von ||| , the dreaded ' millennium bug ||| 0.25 0.05 0.0833333 7.28284e-08 2.718 ||| ||| 4 12
+opfer von ||| , the dreaded ' millennium ||| 0.25 0.05 0.0833333 3.35011e-06 2.718 ||| ||| 4 12
+opfer von ||| dreaded ' millennium bug ||| 0.25 0.05 0.0833333 1.02736e-05 2.718 ||| ||| 4 12
+opfer von ||| dreaded ' millennium ||| 0.25 0.05 0.0833333 0.000472588 2.718 ||| ||| 4 12
+opfer von ||| millennium bug ||| 0.25 0.05 0.0833333 0.0217391 2.718 ||| ||| 4 12
+opfer von ||| millennium ||| 0.25 0.05 0.0833333 1 2.718 ||| ||| 4 12
+opfer von ||| seen , the dreaded ' millennium bug ||| 0.25 0.05 0.0833333 1.58322e-09 2.718 ||| ||| 4 12
+opfer von ||| seen , the dreaded ' millennium ||| 0.25 0.05 0.0833333 7.28284e-08 2.718 ||| ||| 4 12
+opfer von ||| the dreaded ' millennium bug ||| 0.25 0.05 0.0833333 1.1167e-06 2.718 ||| ||| 4 12
+opfer von ||| the dreaded ' millennium ||| 0.25 0.05 0.0833333 5.13683e-05 2.718 ||| ||| 4 12
+opfern ||| all the ||| 1 1 0.25 0.108696 2.718 ||| ||| 1 4
+opfern ||| all ||| 1 1 0.25 1 2.718 ||| ||| 1 4
+opfern ||| of all the ||| 1 1 0.25 0.0047259 2.718 ||| ||| 1 4
+opfern ||| of all ||| 1 1 0.25 0.0434783 2.718 ||| ||| 1 4
+parlament besteht der ||| of the next few days , during ||| 1 0.0857143 0.2 4.4668e-07 2.718 ||| ||| 1 5
+parlament besteht der ||| of the next few days , ||| 1 0.0857143 0.2 2.05473e-05 2.718 ||| ||| 1 5
+parlament besteht der ||| of the next few days ||| 1 0.0857143 0.2 0.000315059 2.718 ||| ||| 1 5
+parlament besteht der ||| of the next few ||| 1 0.0857143 0.2 0.0144927 2.718 ||| ||| 1 5
+parlament besteht der ||| of the next ||| 1 0.0857143 0.2 0.666667 2.718 ||| ||| 1 5
+parlament besteht ||| the next few days , during ||| 1 0.142857 0.2 4.4668e-07 2.718 ||| ||| 1 5
+parlament besteht ||| the next few days , ||| 1 0.142857 0.2 2.05473e-05 2.718 ||| ||| 1 5
+parlament besteht ||| the next few days ||| 1 0.142857 0.2 0.000315059 2.718 ||| ||| 1 5
+parlament besteht ||| the next few ||| 1 0.142857 0.2 0.0144927 2.718 ||| ||| 1 5
+parlament besteht ||| the next ||| 1 0.142857 0.2 0.666667 2.718 ||| ||| 1 5
+parlament ||| the ||| 0.0909091 0.142857 1 0.666667 2.718 ||| ||| 11 1
+parlaments ||| parliament ||| 1 1 1 1 2.718 ||| ||| 1 1
+präsidentin , zur geschäftsordnung . ||| madam president , on a point of ||| 1 0.017094 1 0.00301933 2.718 ||| ||| 1 1
+präsidentin ||| of ||| 0.142857 0.1 1 1 2.718 ||| ||| 7 1
+schrecklichen naturkatastrophen ||| people in a ||| 0.5 0.05 0.333333 0.00189036 2.718 ||| ||| 2 3
+schrecklichen naturkatastrophen ||| people in ||| 0.5 0.05 0.333333 0.0217391 2.718 ||| ||| 2 3
+schrecklichen naturkatastrophen ||| people ||| 0.5 0.05 0.333333 1 2.718 ||| ||| 2 3
+schöne ferien ||| a happy new year ||| 0.5 0.05 0.25 4.10946e-05 2.718 ||| ||| 2 4
+schöne ferien ||| happy new year ||| 0.5 0.05 0.25 0.000472588 2.718 ||| ||| 2 4
+schöne ferien ||| new year ||| 0.5 0.05 0.25 0.0217391 2.718 ||| ||| 2 4
+schöne ferien ||| year ||| 0.5 0.05 0.25 1 2.718 ||| ||| 2 4
+sich zu einer schweigeminute zu ||| for this minute ' s silence ||| 0.5 0.00210938 0.333333 7.13313e-06 2.718 ||| ||| 2 3
+sich zu einer schweigeminute zu ||| minute ' s silence ||| 0.25 0.00210938 0.333333 0.0150937 2.718 ||| ||| 4 3
+sich zu einer schweigeminute zu ||| this minute ' s silence ||| 0.5 0.00210938 0.333333 0.000328125 2.718 ||| ||| 2 3
+sich zu ||| for this minute ||| 0.5 0.03 0.333333 0.000283553 2.718 ||| ||| 2 3
+sich zu ||| minute ||| 0.5 0.03 0.333333 0.6 2.718 ||| ||| 2 3
+sich zu ||| this minute ||| 0.5 0.03 0.333333 0.0130435 2.718 ||| ||| 2 3
+sie bitten ||| , ||| 0.0769231 0.0153846 0.5 1 2.718 ||| ||| 13 2
+sie bitten ||| storms , ||| 0.5 0.0153846 0.5 0.0217391 2.718 ||| ||| 2 2
+sie schöne ||| , ||| 0.0769231 0.0153846 1 1 2.718 ||| ||| 13 1
+sie ||| , ||| 0.307692 0.307692 0.8 1 2.718 ||| ||| 13 5
+sie ||| storms , ||| 0.5 0.307692 0.2 0.0217391 2.718 ||| ||| 2 5
+sind bürger einiger unserer ||| the ||| 0.0909091 8.92858e-06 1 0.5 2.718 ||| ||| 11 1
+sind bürger einiger ||| the ||| 0.0909091 0.000178572 1 0.5 2.718 ||| ||| 11 1
+sitzungsperiode ||| the session of the ||| 1 0.417857 0.333333 0.0133278 2.718 ||| ||| 1 3
+sitzungsperiode ||| the session ||| 1 0.642857 0.333333 0.163265 2.718 ||| ||| 1 3
+sitzungsperiode ||| the ||| 0.0909091 0.285714 0.333333 0.571429 2.718 ||| ||| 11 3
+stürme , ||| meantime ||| 0.5 0.15 1 1 2.718 ||| ||| 2 1
+stürme ||| meantime ||| 0.5 1 1 1 2.718 ||| ||| 2 1
+tagen ||| a debate ||| 1 1 0.5 0.0869565 2.718 ||| ||| 1 2
+tagen ||| debate ||| 1 1 0.5 1 2.718 ||| ||| 1 2
+und ||| i should like ||| 1 0.666667 0.25 0.000472588 2.718 ||| ||| 1 4
+und ||| i should ||| 1 0.666667 0.25 0.0217391 2.718 ||| ||| 1 4
+und ||| i ||| 0.666667 0.666667 0.5 1 2.718 ||| ||| 3 4
+union ||| , on ||| 0.5 0.0769231 0.5 0.0434783 2.718 ||| ||| 2 2
+union ||| , ||| 0.0769231 0.0769231 0.5 1 2.718 ||| ||| 13 2
+unserer mitgliedstaaten opfer ||| disasters that truly ||| 0.25 0.0025 0.2 0.000945179 2.718 ||| ||| 4 5
+unserer mitgliedstaaten opfer ||| natural disasters that truly ||| 0.25 0.0025 0.2 2.05473e-05 2.718 ||| ||| 4 5
+unserer mitgliedstaaten opfer ||| of natural disasters that truly ||| 0.25 0.0025 0.2 8.93364e-07 2.718 ||| ||| 4 5
+unserer mitgliedstaaten opfer ||| that truly ||| 0.25 0.0025 0.2 0.0434783 2.718 ||| ||| 4 5
+unserer mitgliedstaaten opfer ||| truly ||| 0.25 0.0025 0.2 1 2.718 ||| ||| 4 5
+unserer mitgliedstaaten ||| disasters that truly ||| 0.25 0.05 0.2 0.000945179 2.718 ||| ||| 4 5
+unserer mitgliedstaaten ||| natural disasters that truly ||| 0.25 0.05 0.2 2.05473e-05 2.718 ||| ||| 4 5
+unserer mitgliedstaaten ||| of natural disasters that truly ||| 0.25 0.05 0.2 8.93364e-07 2.718 ||| ||| 4 5
+unserer mitgliedstaaten ||| that truly ||| 0.25 0.05 0.2 0.0434783 2.718 ||| ||| 4 5
+unserer mitgliedstaaten ||| truly ||| 0.25 0.05 0.2 1 2.718 ||| ||| 4 5
+unterbrochene sitzungsperiode ||| resumed the session of the ||| 1 0.417857 1 0.0133278 2.718 ||| ||| 1 1
+unterbrochene ||| resumed ||| 1 1 1 1 2.718 ||| ||| 1 1
+verlauf dieser sitzungsperiode ||| the course ||| 1 0.0142857 1 0.571429 2.718 ||| ||| 1 1
+verlauf dieser ||| course ||| 0.5 0.05 1 1 2.718 ||| ||| 2 1
+verlauf ||| course ||| 0.5 1 1 1 2.718 ||| ||| 2 1
+verschiedenen ländern der ||| a number of members ||| 0.5 0.03 0.25 0.00189036 2.718 ||| ||| 2 4
+verschiedenen ländern der ||| as a number of members ||| 0.5 0.03 0.25 4.10946e-05 2.718 ||| ||| 2 4
+verschiedenen ländern der ||| number of members ||| 0.5 0.03 0.25 0.0217391 2.718 ||| ||| 2 4
+verschiedenen ländern der ||| of members ||| 0.5 0.03 0.25 1 2.718 ||| ||| 2 4
+verschiedenen ländern ||| members ||| 0.5 0.05 1 1 2.718 ||| ||| 2 1
+von schrecklichen ||| ' millennium bug ||| 0.25 0.05 0.0833333 0.000472588 2.718 ||| ||| 4 12
+von schrecklichen ||| ' millennium ||| 0.25 0.05 0.0833333 0.0217391 2.718 ||| ||| 4 12
+von schrecklichen ||| , the dreaded ' millennium bug ||| 0.25 0.05 0.0833333 7.28284e-08 2.718 ||| ||| 4 12
+von schrecklichen ||| , the dreaded ' millennium ||| 0.25 0.05 0.0833333 3.35011e-06 2.718 ||| ||| 4 12
+von schrecklichen ||| dreaded ' millennium bug ||| 0.25 0.05 0.0833333 1.02736e-05 2.718 ||| ||| 4 12
+von schrecklichen ||| dreaded ' millennium ||| 0.25 0.05 0.0833333 0.000472588 2.718 ||| ||| 4 12
+von schrecklichen ||| millennium bug ||| 0.25 0.05 0.0833333 0.0217391 2.718 ||| ||| 4 12
+von schrecklichen ||| millennium ||| 0.25 0.05 0.0833333 1 2.718 ||| ||| 4 12
+von schrecklichen ||| seen , the dreaded ' millennium bug ||| 0.25 0.05 0.0833333 1.58322e-09 2.718 ||| ||| 4 12
+von schrecklichen ||| seen , the dreaded ' millennium ||| 0.25 0.05 0.0833333 7.28284e-08 2.718 ||| ||| 4 12
+von schrecklichen ||| the dreaded ' millennium bug ||| 0.25 0.05 0.0833333 1.1167e-06 2.718 ||| ||| 4 12
+von schrecklichen ||| the dreaded ' millennium ||| 0.25 0.05 0.0833333 5.13683e-05 2.718 ||| ||| 4 12
+von ||| ' millennium bug ||| 0.25 1 0.0833333 0.000472588 2.718 ||| ||| 4 12
+von ||| ' millennium ||| 0.25 1 0.0833333 0.0217391 2.718 ||| ||| 4 12
+von ||| , the dreaded ' millennium bug ||| 0.25 1 0.0833333 7.28284e-08 2.718 ||| ||| 4 12
+von ||| , the dreaded ' millennium ||| 0.25 1 0.0833333 3.35011e-06 2.718 ||| ||| 4 12
+von ||| dreaded ' millennium bug ||| 0.25 1 0.0833333 1.02736e-05 2.718 ||| ||| 4 12
+von ||| dreaded ' millennium ||| 0.25 1 0.0833333 0.000472588 2.718 ||| ||| 4 12
+von ||| millennium bug ||| 0.25 1 0.0833333 0.0217391 2.718 ||| ||| 4 12
+von ||| millennium ||| 0.25 1 0.0833333 1 2.718 ||| ||| 4 12
+von ||| seen , the dreaded ' millennium bug ||| 0.25 1 0.0833333 1.58322e-09 2.718 ||| ||| 4 12
+von ||| seen , the dreaded ' millennium ||| 0.25 1 0.0833333 7.28284e-08 2.718 ||| ||| 4 12
+von ||| the dreaded ' millennium bug ||| 0.25 1 0.0833333 1.1167e-06 2.718 ||| ||| 4 12
+von ||| the dreaded ' millennium ||| 0.25 1 0.0833333 5.13683e-05 2.718 ||| ||| 4 12
+wie sie ||| although , as ||| 1 0.230769 1 0.25 2.718 ||| ||| 1 1
+wiederaufgenommen ||| friday ||| 1 1 1 1 2.718 ||| ||| 1 1
+wiederaufnahme der sitzungsperiode ||| resumption of the session ||| 1 0.385714 1 0.163265 2.718 ||| ||| 1 1
+wiederaufnahme der ||| resumption of ||| 1 0.6 1 1 2.718 ||| ||| 1 1
+wiederaufnahme ||| resumption ||| 1 1 1 1 2.718 ||| ||| 1 1
+wunsch einiger ||| in ||| 0.125 0.02 1 1 2.718 ||| ||| 8 1
+wunsch nach einer aussprache ||| on this subject in ||| 1 0.0025 1 0.0277778 2.718 ||| ||| 1 1
+wunsch nach ||| in ||| 0.125 0.02 1 1 2.718 ||| ||| 8 1
+wunsch ||| in ||| 0.25 0.4 1 1 2.718 ||| ||| 8 2
+wünsche ||| december ||| 1 1 1 1 2.718 ||| ||| 1 1
+zu einer schweigeminute . ) ||| a minute ' s silence ) ||| 1 0.0825 1 0.0119629 2.718 ||| ||| 1 1
+zu einer schweigeminute . ||| a minute ' s silence ||| 1 0.0825 1 0.0119629 2.718 ||| ||| 1 1
+zu einer schweigeminute zu ||| for this minute ' s silence ||| 0.5 0.0421875 0.333333 7.13313e-06 2.718 ||| ||| 2 3
+zu einer schweigeminute zu ||| minute ' s silence ||| 0.25 0.0421875 0.333333 0.0150937 2.718 ||| ||| 4 3
+zu einer schweigeminute zu ||| this minute ' s silence ||| 0.5 0.0421875 0.333333 0.000328125 2.718 ||| ||| 2 3
+zu einer schweigeminute ||| minute ' s silence ||| 0.25 0.1485 1 0.0191406 2.718 ||| ||| 4 1
+zu ||| for this minute ||| 0.5 0.6 0.333333 0.000283553 2.718 ||| ||| 2 3
+zu ||| minute ||| 0.5 0.6 0.333333 0.6 2.718 ||| ||| 2 3
+zu ||| this minute ||| 0.5 0.6 0.333333 0.0130435 2.718 ||| ||| 2 3
+zum jahreswechsel ||| once again ||| 0.333333 0.05 0.5 0.0217391 2.718 ||| ||| 3 2
+zum jahreswechsel ||| once ||| 0.333333 0.05 0.5 1 2.718 ||| ||| 3 2
+zur ||| madam ||| 1 1 1 1 2.718 ||| ||| 1 1
